@@ -1,0 +1,2 @@
+# infoHunter
+Recopilación de información
